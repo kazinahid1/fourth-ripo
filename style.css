@@ -8,3 +8,9 @@ h1{
     color: white;
     width: 30%;
 }
+h3{
+
+    text-align: center;
+    background-color: rgb(5, 231, 107);
+    color: rgb(250, 12, 12);
+}
