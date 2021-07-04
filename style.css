@@ -1,4 +1,10 @@
 p{
     background-color: black;
     color: rgb(226, 214, 195);
+    width: 10%;
+}
+h1{
+    background-color: rgb(117, 12, 223);
+    color: white;
+    width: 30%;
 }
